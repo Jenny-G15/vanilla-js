@@ -1,7 +1,7 @@
 ## Ejercicio 1
 
 1. Realice el ejercicio en el archivo: ejercicio1.js
-2. Utilizando el keyword "this", haga que la funcion siguiente incremenete el valor en 1 y que lo retorne.
+2. Utilizando el keyword "this", haga que la funcion siguiente incremente el valor en 1 y que lo retorne.
 
 
 ## Ejercicio 2

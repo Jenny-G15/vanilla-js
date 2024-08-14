@@ -1,8 +1,10 @@
 let contador = {
   valor: 0,
   siguiente: function () {
-    // Inserte el código aquí
+   // Inserte el código aquí
+   
+
+    console.log('')
   },
 };
 
-export { contador }
